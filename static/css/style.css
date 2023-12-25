@@ -1,0 +1,20 @@
+html {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.center {
+    
+    margin:auto;
+    width: fit-content;
+}
+
+a {
+    color: lightblue;
+}
+
+.text {
+    text-align: left;
+    max-width: 375px;
+}
