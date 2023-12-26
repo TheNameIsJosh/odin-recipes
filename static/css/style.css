@@ -1,6 +1,6 @@
-html {
-    background-color: black;
+body {
     color: white;
+    background-color: rgb(57, 86, 87);
 }
 
 .center {
@@ -32,7 +32,7 @@ a {
     text-align: center;
     border-radius: 5px;
     margin: 20px;
-    padding: 10px;
+    padding: 10px; 
 }
 
 #picture {
